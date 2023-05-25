@@ -1,2 +1,2 @@
-# PlasticityRegularisations_G3
+# Plasticity Regularisations G-cubed
 VEP Stokes routines with regularisation
