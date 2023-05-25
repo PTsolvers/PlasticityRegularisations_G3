@@ -1,4 +1,4 @@
-# G3 2023 paper
+# Plasticity regularisation, G-Cubed (2023)
 
 Scripts: [![DOI](https://zenodo.org/badge/630468209.svg)](https://zenodo.org/badge/latestdoi/630468209)       Data:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7692569.svg)](https://doi.org/10.5281/zenodo.7692569)
 
