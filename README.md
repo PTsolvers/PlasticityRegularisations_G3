@@ -4,9 +4,8 @@ Scripts: [![DOI](https://zenodo.org/badge/630468209.svg)](https://zenodo.org/bad
 
 This repository contains the scripts that were used for the preparation of the manuscript: **A comparison of plasticity regularisation approaches for geodynamic modelling**.
 
-<p align="center">
-  <img src="docs/FigureLab0300.png" alt="shear-bands" width="700" />
-</p>
+
+![](/docs/RegularisationRandom-desktop.m4v.gif)
 
 ### Installation
 
@@ -61,3 +60,7 @@ And this one would activate Cosserat plasticity with a characteristic length of 
     l_coss    =  100.0       # cosserat
  ```
 One can also combine activate viscoplasticity together with gradient or Cosserat to benefit from both spatial and temporal regularisations.
+
+<p align="center">
+  <img src="docs/FigureLab0300.png" alt="shear-bands" width="700" />
+</p>
