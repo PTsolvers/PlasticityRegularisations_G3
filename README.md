@@ -1,6 +1,6 @@
 # Plasticity regularisation, G-Cubed (2023)
 
-Scripts: [![DOI](https://zenodo.org/badge/630468209.svg)](https://zenodo.org/badge/latestdoi/630468209)       Data:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7692569.svg)](https://doi.org/10.5281/zenodo.7692569)
+Scripts: [![DOI](https://zenodo.org/badge/645295524.svg)](https://zenodo.org/badge/latestdoi/645295524)       Data:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7692569.svg)](https://doi.org/10.5281/zenodo.7692569)
 
 This repository contains the scripts that were used for the preparation of the manuscript: [**A comparison of plasticity regularisation approaches for geodynamic modelling**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GC010675) by T. Duretz, L. Räss, R. de Borst and T. Hageman published in *Geochemistry, Geophysics, Geosystems*.
 
